@@ -1,11 +1,12 @@
 <?php
 
-echo "<br>1. hola";
+$final = 10;
 
-echo "<br>2. com et dius?";
+echo "<br>listado del 1 al ".$final."<br>";
 
-echo "<br>1. em dic francesc";
-
-echo "<br>1. i tu?";
+for ($contador =0;$contador<$final;$contador++)
+{
+	echo "<br>".($contador+1);
+}
 
 ?>
