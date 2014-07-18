@@ -1,11 +1,11 @@
 <?php
 
-echo "1. hola";
+echo "<br>1. hola";
 
-echo "2. com et dius?";
+echo "<br>2. com et dius?";
 
-echo "1. em dic francesc";
+echo "<br>1. em dic francesc";
 
-echo "1. i tu?";
+echo "<br>1. i tu?";
 
 ?>
